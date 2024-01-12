@@ -2,4 +2,4 @@
 
 text ghfghfghf
 
-[nazev odkazu](01-one-word.md)
+[One word](/one-word/01-one-word.md)
