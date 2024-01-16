@@ -1,12 +1,16 @@
+---
 ### Summer House
 *(architecture)*
 
 ![Mood picture of the house](Architektura.png)
 
-My university journey started at architecture. Where the spark for graphic design lighted up in me. This particular project I designed for Czech actress Lenka Zbranková in Sázava as her summer house. Lovely environment of the countryside and her delicate personality led me to designing 
+My university journey started at architecture. Where the spark for graphic design lighted up in me. This particular project I designed for Czech actress Lenka Zbranková in Sázava as her summer house. Lovely environment of the countryside and her **delicate** personality led me to designing **spacious** common areas for her lively entertaining and **calm, simple** private rooms for her to unwind and recharge after long day. I learned to listen to the client, work with space and materials. 
 
+![Floor plan, photos of concrete model](Architektura2.png)
 
+But my path led me more into graphic design...
 
+---
 ### Czech School without Borders, London
 *(visual identity)*
 
@@ -14,8 +18,9 @@ My university journey started at architecture. Where the spark for graphic desig
 
 This is a visual identity for Czech School without Borders, London and together we designed a **versatile** visual system, reflecting the **unique** and **creative** educational process of the school. We created a **playful iconography** based on sticker like appearance. It is not only **fun element** but also **practical tool** to classify all the activities the school provides. We wanted to **incorporate children** themselves to be part of their school identity by using their precious artworks and creations. 
 
-![Czech School motion](CzechSchool_video.m4v)
+![Czech School motion](CzechSchool_video.mp4)
 
+---
 ### Indigo
 *(board game)*
 
@@ -29,6 +34,7 @@ The path lighting up the way through different, moody environments leading you b
 
 ![Indigo board and packaging](Indigo3.png)
 
+---
 ### Leatherworks Tlustý
 *(brand identity, rebranding)*
 
