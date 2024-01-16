@@ -1,5 +1,12 @@
-# Again
 
-So here we go again. Literally. I have a very complicated relationship with this word. As of today we accept each other’s existence, but we still struggle to get along completely. But that is alright because life is just a big never ending learning experience and I am living for the first time so bear with me. 
-From my early years I hated the sound of the phrase: “do it again”. Why? Why go to all the trouble of doing something again when it was done already? Wasn’t it good enough for the first time? Am I not good enough to do it on the first try? I hated doing things again. Because I didn’t want to, because it was boring the first time, because I started to doubt myself and my being perfect the first time mentality wasn’t a good friend of doing things again. Once or never. There is only one chance in life to get it right. But is there? And every time I failed I was reminded my wish for perfection on the first try is not possible as well as it is very exhausting to maintain.
-On the one hand I was thought there is always a second chance in everything, but on the other hand I always put pressure on myself to be the best or perfect as much as possible. 
+
+
+### Czech School without Borders, London
+(Visual identity)
+
+![Czech School logo](CzechSchool_uvod.png)
+
+This is a visual identity for Czech School without Borders, London and together we designed a **versatile** visual system, reflecting the **unique** and **creative** educational process of the school. We created a **playful iconography** based on sticker like appearance. It is not only **fun element** but also **practical tool** to classify all the activities the school provides. We wanted to **incorporate children** themselves to be part of their school identity by using their precious artworks and creations. 
+
+![Czech School motion](CzechSchool_video.m4v)
+
