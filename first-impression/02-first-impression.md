@@ -1,4 +1,4 @@
-#First Impression
+# First Impression
 
 ### about me:
 Ahoy! I am Terézia Michalcová and I am a graphic designer. My creative journey started at Faculty of Architecture where my main interests shifted and those led me more into visual communication. Now I create brand identities and I enjoy the creative process behind it.
