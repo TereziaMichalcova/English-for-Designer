@@ -1,4 +1,3 @@
----
 ### Summer House
 *(architecture)*
 
