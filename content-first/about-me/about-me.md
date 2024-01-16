@@ -6,5 +6,4 @@ From young age I've had creative spirit and that blossomed into my work as a gra
 
 #### back to:
 [Content first](../03-content-first.md)\
-[Index](/English-for-Designer/index.md)
 
