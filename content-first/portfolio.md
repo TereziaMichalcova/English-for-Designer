@@ -1,10 +1,10 @@
-◀︎ [back to Content First](03-content-first.md)
+[◀︎ back to Content First](03-content-first.md)
 
 # Portfolio
-• [Summer House](#Summer-House)\
-• [Czech School without Borders, London](#Czech-School-without-Borders,-London)\
-• [Indigo](#Indigo)\
-• [Leatherworks Tlustý](#Leatherworks-Tlustý)
+• [Summer House](#summer-house)\
+• [Czech School without Borders, London](#czech-school-without-borders-london)\
+• [Indigo](#indigo)\
+• [Leatherworks Tlustý](#leatherworks-tlustý)
 
 ---
 ### Summer House
@@ -13,7 +13,9 @@
 ![Mood picture of the house](Architektura.png)
 
 My university journey started at architecture. Where the spark for graphic design lighted up in me. This particular project I designed for Czech actress Lenka Zbranková in Sázava as her summer house.\
+
 Lovely environment of the countryside and her **delicate** personality led me to designing **spacious** common areas for her lively entertaining and **calm, simple** private rooms for her to unwind and recharge after long day.\
+
 I learned to listen to the client, work with space and materials.
 
 ![Floor plan, photos of concrete model](Architektura2.png)
