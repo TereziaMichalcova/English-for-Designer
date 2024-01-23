@@ -7,7 +7,7 @@
 
 ## Final Version
 
-[Hands are often a symbol of love - because that is how we make real the concept of love. Through our actions and by giving ourselves for the good of others. It has very symbolic meaning - we can either bring goodness or destruction and it is on our conscience what we decide to do with it. I was commissioned to draw this picture for charity organisation and their project Heart in the palm of your hand. Even though they didn’t choose my drawing I enjoyed the process very much and I had the time to contemplate about how I can bring love through my hands to the society.](srdce_na_dlani.jpg)
+![Hands are often a symbol of love - because that is how we make real the concept of love. Through our actions and by giving ourselves for the good of others. It has very symbolic meaning - we can either bring goodness or destruction and it is on our conscience what we decide to do with it. I was commissioned to draw this picture for charity organisation and their project Heart in the palm of your hand. Even though they didn’t choose my drawing I enjoyed the process very much and I had the time to contemplate about how I can bring love through my hands to the society.](srdce_na_dlani.jpg)
 
 Hello dear reader I *love* that you stumbled upon this page. You look very stylish, *love* that shirt on you. I would *love* to show you what I wrote. I *loved* this assignment we got for our English lesson and I would *love* for you to read it. It is about one very well known word, very much overused in wrong context and space and time and that word would be: **love**.
 
