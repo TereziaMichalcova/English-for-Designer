@@ -7,7 +7,7 @@
 
 ## Revision
 
-#### I tried to use Hemingway editor, but it didn't made changes I liked. So I edited it myself.
+#### I tried to use Hemingway editor, but it didn't make changes I liked. So I edited it myself.
 
 Hello dear reader I love that you stumbled upon this page. You look very stylish, love that shirt on you. I would love to show you what I wrote. I loved this assignment we got for our English lesson and I would love for you to read it. It is about one very well known word, very much overused in wrong context and space and time and that word would be: love.
 
