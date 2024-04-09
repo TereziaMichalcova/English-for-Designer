@@ -4,11 +4,11 @@ by Terézia Michalcová
 
 9 April 2024
 
-[Download  – slides](https://www.notion.so/Download-slides-5d1e1550df2a42efa8cba42f9fa62235?pvs=21)
+Download – [slides](storytelling_presentation.pdf)
 
 watch – video
 
-[view – process](https://www.notion.so/view-process-bf53e17a0db4444aa3a3559d8b90c10a?pvs=21)
+View – [process]()
 
 Hola soy Teresa and I would be a student of graphic design, let me show you my chaotic life. 
 
@@ -24,11 +24,3 @@ presentation:
 8. Working with Czech School in London I got to see London twice that year 
 9. Throughout my life you can see how creativity went up and down. From being held hostage by learned rationality and system, through being strictly realistic and finally being able to be the 2yo in my creative process.
 10. So is the routine needed to be creative? I think not, it rather wants a free course 
-
-```markdown
-Download [the slides](assets/surname-title-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
-- Watch [the video](…) (audio + slides)
-- View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
-
-<!-- A text transcription of your audio as stand-alone article with images, links, etc. -->
-```
