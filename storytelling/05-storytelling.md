@@ -4,11 +4,9 @@ by Terézia Michalcová
 
 9 April 2024
 
-Download [the slides](storytelling_presentation.pdf)
-
-Watch [the video]() // to be added
-
-View [the process](process.md)
+- Download [the slides](storytelling_presentation.pdf)
+- Watch [the video]() // to be added
+- View [the process](process.md)
 
 Hola soy Teresa and I would be a student of graphic design, let me show you my chaotic life. 
 
