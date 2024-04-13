@@ -8,7 +8,7 @@ Download [slides](storytelling_presentation.pdf)
 
 Watch [the video]()
 
-View [the process](process.md)
+View [the process]()
 
 Hola soy Teresa and I would be a student of graphic design, let me show you my chaotic life. 
 
