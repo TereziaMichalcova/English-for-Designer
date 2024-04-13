@@ -5,7 +5,8 @@
 [Content First](/content-first/03-content-first.md)\
 [Voice, Tone and Style](/tone-voice-style/04-Voice-Tone-Style.md)\
 [Storytelling](storytelling/05-storytelling.md)\
-[Thesis Lightning Talk](thesis/06-thesis.md)
+[Thesis Lightning Talk](thesis/06-thesis.md)\
+[Year in Review](year-in-review/07-year-in-review.md)
 
 # Ahoy! Welcome to my little corner, I am Teresa and let me show you what I do.
 
