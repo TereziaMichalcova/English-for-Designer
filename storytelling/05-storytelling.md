@@ -23,10 +23,9 @@ Hi there, I am Teresa and I am a student of graphic design. So let me show you m
 
 more to read here: 
 
-article: [How Education Quashed Your Creativity](https://www.psychologytoday.com/us/blog/creative-insights/202108/how-education-quashed-your-creativity-0)
+article: 
+[How Education Quashed Your Creativity](https://www.psychologytoday.com/us/blog/creative-insights/202108/how-education-quashed-your-creativity-0)
 
 books: 
-
-[Out of Our Minds: The Power of Being Creative](https://www.psychologytoday.com/us/blog/creative-insights/202108/how-education-quashed-your-creativity-0)
-
+[Out of Our Minds: The Power of Being Creative](https://www.psychologytoday.com/us/blog/creative-insights/202108/how-education-quashed-your-creativity-0)\
 [The Artist’s Way: A Spiritual Path to Higher Creativity](https://juliacameronlive.com/books-by-julia/the-artists-way-a-spiritual-path-to-higher-creativity-audiobook/)
