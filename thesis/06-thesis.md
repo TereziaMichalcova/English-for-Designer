@@ -10,4 +10,5 @@ By Terézia Michalcová
 
 	- Watch [the video]() // to be added
 
-> transcription here < 
+
+... transcription here  
