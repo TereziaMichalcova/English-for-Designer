@@ -4,7 +4,7 @@ by Terézia Michalcová
 
 9 April 2024
 
-Download [slides](storytelling_presentation.pdf)
+Download [the slides](storytelling_presentation.pdf)
 
 Watch [the video]() // to be added
 

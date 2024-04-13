@@ -4,7 +4,8 @@
 [First Impression](/first-impression/02-first-impression.md)\
 [Content First](/content-first/03-content-first.md)\
 [Voice, Tone and Style](/tone-voice-style/04-Voice-Tone-Style.md)\
-[Storytelling](storytelling/05-storytelling.md)
+[Storytelling](storytelling/05-storytelling.md)\
+[Thesis Lightning Talk](thesis/06-thesis.md)
 
 # Ahoy! Welcome to my little corner, I am Teresa and let me show you what I do.
 
