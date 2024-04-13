@@ -6,7 +6,7 @@ by Terézia Michalcová
 
 Download [slides](storytelling_presentation.pdf)
 
-Watch [the video]()
+Watch [the video]() // to be added
 
 View [the process](process.md)
 
