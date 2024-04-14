@@ -12,7 +12,7 @@ Hi there, I am Teresa and I am a student of graphic design. So let me show you m
 
 1. Wavering Creativity
 2. That’s me. Teresa. My biggest goals at that time were to do as much trouble as possible. And my parents would agree that I indeed was the trouble.\
-![2yo me, loved that for me.](/IMG_4765.JPG)
+![2yo me, loved that for me.](IMG_4765.JPG)
 3. (thug life) Sweet times. As a kid I naturally did all the things that just happened to go through my mind. Spontaneity of child is fascinating. Child isn’t afraid of the outcome, consequences of their actions. They just try and hope for the best. Well, washing a cat in a brand new inflatable pool wasn’t my brightest idea…  but I wasn’t afraid of trying things, doing things, exploring things. 
 4. In primary school I was asked to sit still and listen. I enjoyed learning new things. Even though I had problem to relearn writing properly. Because I taught myself to write from right to left and mirrored. And that made great sense to me as a left-handed individual – I didn't have to push the pen against the paper but slide it like right-handed people naturally have in a left-to-right writing system. My way wasn't accepted very well by my teachers. 
 5. Then I went to grammar school when I was 11yo and stayed there until 18. I had routine, I was excercising a lot, I went to art class. But I wouldn’t say I was creative much. I did what I saw. Ordinarily reproducing things – which is also important part of learning new techniques etc. But I had no great ideas at that time. It was normalised thinking and institutionalised creativity that I was portraying. 
