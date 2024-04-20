@@ -2,7 +2,7 @@
 
 Where do I begin? Year is long time and the last one was pretty fun. So here is my little update about it.
 
-####Life update####
+#### Life update ####
 
 This last year was eventful. (Last year = April to April) First thing I got to see London for the first time (my childhood dream came true 🥰)! And we got to present our project – short film to children at Czech School without Borders in London. The rest of our time was spent visiting art universities and sightseeing.\
 I got to go to a concert of Wiener Philharmoniker that my father and I wanted to go for years. So we planned to visit Vienna when they had Sommer nacht konzert that has free entry and the atmosphere was amazing!\
@@ -12,7 +12,7 @@ I worked for the newly emerging television where my partner and I were designing
 My hunt for Ikea Frosta chair had come to an end. My lovely boyfriend found a company that produces the chair that Ikea stopped selling. And he gave it to me as a birthday present – I was absolutely thrilled when I opened the box!
 It was a good year.
 
-####Insights I've learned update####
+#### Insights I've learned update ####
 - I've learned that in a good team everything is better – less stress and more fun + support
 - It is not good to leave everything to the last minute 
 - I need at least 2x more time than I expect to need – leaving extra time for projects is a lifesaving habit
