@@ -8,8 +8,8 @@ This last year was eventful. (Last year = April to April) First thing I got to s
 I got to go to a concert of Wiener Philharmoniker that my father and I wanted to go for years. So we planned to visit Vienna when they had Sommer nacht konzert that has free entry and the atmosphere was amazing!\
 And then in autumn we got to go to London again! And we got to present our project – short film about Czech pilot in RAF during WWII – in Czech embassy in London. What an honor.\
 And otherwise it was a year packed with work and school.
-I worked for the newly emerging television where my partner and I were designing brand for the tv.\
-My hunt for Ikea Frosta chair had come to an end. My lovely boyfriend found a company that produces the chair that Ikea stopped selling. And he gave it to me as a birthday present – I was absolutely thrilled when I opened the box!
+I worked for the newly emerging television where my partner and I were designing brand for the TV.\
+My hunt for Ikea Frosta chair had come to an end. My lovely boyfriend found a company that produces the chair that Ikea stopped selling. And he gave it to me as a birthday present – I was absolutely thrilled when I opened the box!\
 It was a good year.
 
 #### Insights I've learned update ####
