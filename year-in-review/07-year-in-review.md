@@ -4,8 +4,8 @@ Where do I begin? Year is long time and the last one was pretty fun. So here is 
 
 Life update
 
-This last year was eventful. (Last year = April to April) First thing I got to see London for the first time (my childhood dream came true 🥰)! And we got to present our project – short film to children at Czech School without Borders in London. The rest of our time was spent visiting art universities and sightseeing.
-I got to go to a concert of Wiener Philharmoniker that my father and I wanted to go for years. So we planned to visit Vienna when they had Sommer nacht konzert that has free entry and the atmosphere was amazing!
+This last year was eventful. (Last year = April to April) First thing I got to see London for the first time (my childhood dream came true 🥰)! And we got to present our project – short film to children at Czech School without Borders in London. The rest of our time was spent visiting art universities and sightseeing.\
+I got to go to a concert of Wiener Philharmoniker that my father and I wanted to go for years. So we planned to visit Vienna when they had Sommer nacht konzert that has free entry and the atmosphere was amazing!\
 And then in autumn we got to go to London again! And we got to present our project – short film about Czech pilot in RAF during WWII – in Czech embassy in London. What an honor.
 And otherwise it was a year packed with work and school.
 
