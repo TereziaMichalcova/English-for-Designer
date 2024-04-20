@@ -10,6 +10,7 @@ And then in autumn we got to go to London again! And we got to present our proje
 And otherwise it was a year packed with work and school.
 I worked for the newly emerging television where my partner and I were designing brand for the tv.\
 My hunt for Ikea Frosta chair had come to an end. My lovely boyfriend found a company that produces the chair that Ikea stopped selling. And he gave it to me as a birthday present – I was absolutely thrilled when I opened the box!
+It was a good year.
 
 ####Insights I've learned update####
 - I've learned that in a good team everything is better – less stress and more fun + support
@@ -19,3 +20,5 @@ My hunt for Ikea Frosta chair had come to an end. My lovely boyfriend found a co
 - And there is no need to spend so much time on certain things – perfection is overrated
 - I've learned to solve a Rubik's cube
 - And the last thing I've learned by playing Fall Guys – I am not big fan of Big Fans (annoying level to win)
+
+![fall guys – big fans level](big_fans.png)
