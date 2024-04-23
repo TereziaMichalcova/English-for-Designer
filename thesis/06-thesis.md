@@ -12,4 +12,4 @@ By Terézia Michalcová
 
 ### Introduction
 
-Hi everybody, Teresa here. Today I would like to introduce you to the topic of my bachelor thesis.
+Hi everybody, Teresa here. Today I would like to introduce you to the topic of my bachelor thesis...
