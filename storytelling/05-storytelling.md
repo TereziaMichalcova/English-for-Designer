@@ -5,7 +5,7 @@ by Terézia Michalcová
 9 April 2024
 
 - Download [the slides](storytelling_presentation.pdf)
-- Watch [the video]() // to be added
+- Watch [the video](Michalcova_storytelling.mp4)
 - View [the process](process.md)
 
 Hi there, I am Teresa and I am a student of graphic design. So let me show you my chaotic life. 
