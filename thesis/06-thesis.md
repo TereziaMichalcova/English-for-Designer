@@ -7,7 +7,7 @@ By Terézia Michalcová
 13 April 2024
 
 - Download [the slides](Thesis.pdf)
-- Watch [the video]() // to be added
+- Watch [the video](Michalcova_thesis.mp4)
 
 
 ### Introduction
